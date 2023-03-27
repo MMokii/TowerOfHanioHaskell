@@ -10,8 +10,11 @@ $ git clone https://github.com/MMokii/TowerOfHanioHaskell
 Go into the repository
 ```bash
 $ cd TowerOfHanioHaskell
-$ cd python3 MolnarMatejTowerOfHanoi.hs
+```
+
+Start Haskel
+```bash
 $ ghci
 Prelude> :l MolnarMatejTowerOfHanoi.hs 
 *Hanoi> igraj
-
+```
